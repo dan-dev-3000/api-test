@@ -1,2 +1,3 @@
 # api-test
-testing
+
+private api using render
